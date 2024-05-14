@@ -1,4 +1,4 @@
-# AirChain-Node
+# AirChain-Node: https://www.airchains.io/
 ```
 Recommended Hardware: 4 Cores, 8GB RAM, 200GB of storage (NVME)
 ```
@@ -138,6 +138,7 @@ source $HOME/.bash_profile
 # 17. Faucet token:
 ```
 Join Discord Server and use Faucet bot
+https://discord.com/invite/airchains
 ```
 # 18. Create validator.json file:
 ```
