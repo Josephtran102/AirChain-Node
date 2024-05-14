@@ -135,10 +135,9 @@ echo "export WALLET_ADDRESS="$WALLET_ADDRESS >> $HOME/.bash_profile
 echo "export VALOPER_ADDRESS="$VALOPER_ADDRESS >> $HOME/.bash_profile
 source $HOME/.bash_profile
 ```
-# 17. Faucet token:
+# 17. Faucet token: https://discord.com/invite/airchains
 ```
 Join Discord Server and use Faucet bot
-https://discord.com/invite/airchains
 ```
 # 18. Create validator.json file:
 ```
