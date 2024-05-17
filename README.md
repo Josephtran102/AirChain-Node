@@ -162,6 +162,11 @@ junctiond tx staking create-validator validator.json \
     --chain-id junction \
 	--fees 200amf \
 ```
+
+# Delegate:
+```
+junctiond tx staking delegate "Validator_address" "amount"amf --from "wallet_name" --chain-id junction --fees 200amf -y
+```
 # Send token:
 ```
 junctiond tx bank send "from_address" "to_address" "amount"amf --chain-id junction --fees 200amf -y
