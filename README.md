@@ -164,5 +164,5 @@ junctiond tx staking create-validator validator.json \
 ```
 # Send token:
 ```
-junctiond tx bank send "from_address" "to_address" --chain-id junction --fees 200amf -y
+junctiond tx bank send "from_address" "to_address" "amount"amf --chain-id junction --fees 200amf -y
 ```
